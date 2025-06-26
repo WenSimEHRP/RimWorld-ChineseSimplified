@@ -1,0 +1,4 @@
+rules:
+  space-word: 0
+  space-punctuation: 0
+  space-bracket: 0
